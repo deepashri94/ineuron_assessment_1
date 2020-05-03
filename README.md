@@ -32,6 +32,7 @@ generate a list.
 5. assignment_ques_5
 
 Create the below pattern using nested for loop in Python.
+
 *
 * *
 * * *
